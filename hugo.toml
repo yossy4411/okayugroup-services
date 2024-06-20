@@ -1,0 +1,8 @@
+baseURL = 'https://okayugroup.com/'
+languageCode = 'ja-jp'
+title = 'My New Hugo Site'
+
+[module]
+proxy = "direct"
+[[module.imports]]
+path = "github.com/google/docsy"
