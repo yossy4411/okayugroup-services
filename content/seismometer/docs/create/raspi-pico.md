@@ -1,7 +1,7 @@
 +++
 title = 'Raspberry Pi Picoで震度計を作ろう'
 date = 2024-06-22T16:02:14+09:00
-draft = true
+draft = false
 +++
 
 # Raspberry Pi Picoで震度計を作ろう！

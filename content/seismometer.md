@@ -1,7 +1,7 @@
 +++
 title = 'Seismometer'
 date = 2024-06-22T15:07:37+09:00
-draft = true
+draft = false
 +++
 
 # おかゆグループ地震計プロジェクト

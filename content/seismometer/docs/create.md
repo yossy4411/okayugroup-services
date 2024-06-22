@@ -1,7 +1,7 @@
 +++
 title = '震度計をつくる'
 date = 2024-06-22T16:02:00+09:00
-draft = true
+draft = false
 +++
 
 # 震度計をつくる

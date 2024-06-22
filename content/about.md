@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-06-22T13:12:03+09:00
-draft = true
+draft = false
 +++
 
 # このサイトについて
