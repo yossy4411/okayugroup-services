@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+
+body {
+    font-family: 'Noto Sans JP', Arial, sans-serif;
+    
+}
+
+main {
+    padding-top: 1.2rem;
+}
+
+@media (min-width: 768px) {
+    main {
+        padding-top: 5.5rem;
+    }
+}
+button {
+    border-radius: 5px;
+    border: 1px;
+    background-color: skyblue;
+    transition: background-color linear 0.2s;
+}
+
+button:hover {
+    background-color:  cyan;
+}

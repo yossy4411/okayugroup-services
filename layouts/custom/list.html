@@ -1,0 +1,15 @@
+{{ define "main" -}}
+<div class="td-content">
+    <h2>Services</h2>
+    <div>
+        {{ range .Site.Data.services }}
+        <div class="List">
+            <h2><a href="{{ .link }}">{{ .title }}</a></h2>
+            <p>{{ .description }}</p>
+            <a href="{{ index .button 1 }}"><button>{{ index .button 0 }}</button></a>
+            <hr/>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
