@@ -5,7 +5,4 @@ draft = false
 layout = "custom/list"
 +++
 
-
-# Welcome to Our Website
-
-This is the main page of our site.
+it will display using layout template
