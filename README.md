@@ -2,4 +2,4 @@
 
 おかゆグループのサービスWebサイトです。
 
-[https://services.okayugroup.com](こちら)でホストしています。
+[https://services.okayugroup.com](こちら)でホスティングしています。
