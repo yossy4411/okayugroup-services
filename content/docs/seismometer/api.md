@@ -1,7 +1,7 @@
 +++
 title = 'APIドキュメント'
 date = 2024-07-14T15:51:13+09:00
-draft = true
+draft = false
 +++
 
 # 地震計プロジェクト APIドキュメント
