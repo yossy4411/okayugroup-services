@@ -17,10 +17,10 @@ Raspberry Piなどのマイコン・小型PCで安価な地震計を作成し、
 そんなこのプロジェクトなのですが、皆様のご協力がないと成り立ちません。まずは地震計を作成するところから始めてみませんか？
 
 以下の5つの手順を踏むことで簡単に作成が可能です。
- 1. 地震計を[作成する](/seismometer/docs/create)
+ 1. 地震計を[作成する](/docs/seismometer/create)
  2. おかゆグループに[ユーザー登録](/user/new)する
- 3. 地震計の[トークンを取得](/user/seismometer/token)する
- 4. 地震計を[設定(ドキュメント)](/seismometer/docs/add_token)する
+ 3. 地震計の[トークンを取得](/docs/seismometer/token/get)する
+ 4. 地震計を[設定(ドキュメント)](/docs/seismometer/token/add)する
 
 ## データの取得方法
 一般的なAPIの形式(HTTP)とWebSocketでデータを提供しています。
