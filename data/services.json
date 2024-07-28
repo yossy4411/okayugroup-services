@@ -14,15 +14,15 @@
       "os": ["windows", "apple", "linux"],
       "status": "earthquake",
       "description": "地震を中心とした、災害対策のために開発しているアプリです。",
-      "link": "https://google.com",
-      "button": ["近日公開", "https://github.com/yossy4411/EarthQuake/releases"]
+      "link": null,
+      "button": ["近日公開"]
     },
     {
       "title": "IoT-Home",
       "os": ["windows", "apple", "linux"],
       "status": "GitIot-Home",
       "description": "IoT用に作られた、Web APIを通じてコマンドやファイル実行を行うアプリです。",
-      "link": null,
+      "link": "/iot-home",
       "button": ["ダウンロード", "https://github.com/yossy4411/Iot-Home/releases"]
     },
     {
