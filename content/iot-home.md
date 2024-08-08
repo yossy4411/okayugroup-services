@@ -27,13 +27,13 @@ Javaが使用可能なすべてのデバイス。以下に例を示します。
 1. GitHubから[最新版](https://github.com/yossy4411/IoT-Home/releases/latest)のiot-home.zipをダウンロードしてください。
 2. ダウンロードしたzipファイルを解凍し、任意の場所に配置します。
 3. 解凍したディレクトリに移動し、iot-home.jarファイルをダブルクリックするか、以下のコマンドを使用して起動します。
-```bash
-java -jar iot-home.jar
-```
+   ```bash
+   java -jar iot-home.jar
+   ```
 4. GUIが起動します。GUIが起動できない環境の場合は[こちら](/docs/iot-home/console)のドキュメントをご覧ください。
 
 ## ライセンス
 
-GNU Genral Public License 3.0
+GNU General Public License 3.0
 
 [LICENSE (GitHub)](https://github.com/yossy4411/IoT-Home/blob/master/LICENSE)
