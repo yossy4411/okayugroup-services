@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://services.okayugroup.com/"
 languageCode = "ja"
 title = "おかゆグループサービス"
 theme = "docsy"
@@ -9,7 +9,6 @@ theme = "docsy"
   customCSS = ["/css/custom.css"]
   [params.copyright]
     from_year = "2024"
-    # 2024だけを指定すると、"2024"と表示される
     to_year = "2024"
     authors = "おかゆグループ"
 
