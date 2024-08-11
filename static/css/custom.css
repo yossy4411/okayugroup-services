@@ -1,4 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&display=swap');
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url("/resources/fonts/NotoSansJP-Regular.woff") format('woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url("/resources/fonts/NotoSansJP-Bold.woff") format('woff');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url("/resources/fonts/NotoSansJP-Medium.woff") format('woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url("/resources/fonts/NotoSansJP-Light.woff") format('woff');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Noto Sans JP';
+    src: url("/resources/fonts/NotoSansJP-Thin.woff") format('woff');
+    font-weight: 100;
+}
 
 body {
     font-family: 'Noto Sans JP', Arial, sans-serif;
