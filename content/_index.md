@@ -16,7 +16,7 @@ draft = false
 
 <hr/>
 
-## [EarthQuake](/okayueq)
+## [EarthQuake (仮)](/okayueq)
 
 地震を中心に、災害情報を提供するアプリです。
 
