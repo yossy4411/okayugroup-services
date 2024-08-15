@@ -6,7 +6,7 @@ draft = false
 
 # サービス一覧
 
-<div class="List" style="margin-top: 20px">
+<div class="List">
 
 ## [震度計プロジェクト](/seismometer)
 
