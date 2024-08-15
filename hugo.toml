@@ -7,6 +7,7 @@ theme = "docsy"
   docsyVersion = "v0.2.0"
   prism_syntax_highlighting = true
   customCSS = ["/css/custom.css", "https://okayugroup.com/resources/fonts/NotoSansJP-font.css"]
+
   [params.copyright]
     from_year = "2023"
     to_year = ""
@@ -19,6 +20,18 @@ theme = "docsy"
   [markup.highlight]
     style = "monokai"
     noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      xHTML = false
+      footnoteReturnLinkContents = "↩"
+      footnoteAnchorPrefix = ""
+      autoHeadingIDType = "github"
+      autoHeadingIDSize = 6
+      definitionList = true
+      typographer = true
+      emoji = true
+      hardWraps = false
 
 [module]
   [[module.imports]]
