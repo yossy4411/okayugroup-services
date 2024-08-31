@@ -6,16 +6,23 @@ theme = "docsy"
 [params]
   docsyVersion = "v0.2.0"
   prism_syntax_highlighting = true
-  customCSS = ["/css/custom.css", "https://okayugroup.com/resources/fonts/NotoSansJP-font.css"]
+  customCSS = ["/css/custom.css", "https://archive.okayugroup.com/fonts/NotoSansJP-font.css"]
 
   [params.copyright]
     from_year = "2023"
     to_year = ""
-    authors = "おかゆグループ"
+    authors = "OkayuGroup"
 
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
-
+[outputFormats]
+  [outputFormats.html]
+    mediatype = "text/html"
+    baseName = "index"
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+    baseName = "rss"
+  [outputFormats.json]
+    mediatype = "application/json"
+    baseName = "json"
 [markup]
   [markup.highlight]
     style = "monokai"
@@ -64,5 +71,5 @@ theme = "docsy"
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "https://okayugroup.com/contact/"
     weight = 4
